@@ -1,0 +1,8 @@
+setup.py
+mygeometry/__init__.py
+mygeometry/circle.py
+mygeometry/rectangle.py
+mygeometry.egg-info/PKG-INFO
+mygeometry.egg-info/SOURCES.txt
+mygeometry.egg-info/dependency_links.txt
+mygeometry.egg-info/top_level.txt
